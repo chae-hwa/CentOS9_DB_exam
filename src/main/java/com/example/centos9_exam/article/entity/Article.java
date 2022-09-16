@@ -17,4 +17,5 @@ public class Article {
     @GeneratedValue(strategy = IDENTITY)
     private Long id;
     private String subject;
+
 }
